@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## About
 
 CS student at Arizona State University interested in software engineering and systems. Currently working as a Systems Technician at ASU's School of Earth and Space Exploration, supporting NASA-affiliated research on the Mastcam-Z instrument aboard the Mars Perseverance rover.
